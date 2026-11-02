@@ -1,0 +1,6 @@
+{
+  "name": "macOS Sequoia Web",
+  "description": "高度還原的蘋果 macOS 線上電腦作業系統，包含全功能訪達、Safari瀏覽器、終端機、備忘錄、計算機、系統設定、Dock欄與Siri智慧助理。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
